@@ -2,7 +2,6 @@
 plugins {
     id 'com.android.application' version '8.6.1' apply false
 }
-
 android {
     namespace 'com.ns11.arcade'
     compileSdk 35
